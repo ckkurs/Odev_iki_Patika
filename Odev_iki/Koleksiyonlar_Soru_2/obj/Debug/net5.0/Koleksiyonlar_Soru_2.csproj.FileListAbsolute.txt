@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.exe
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.deps.json
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.dll
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\bin\Debug\net5.0\Koleksiyonlar_Soru_2.pdb
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.dll
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\obj\Debug\net5.0\refint\Koleksiyonlar_Soru_2.dll
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.pdb
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\obj\Debug\net5.0\Koleksiyonlar_Soru_2.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Odev_iki\Koleksiyonlar_Soru_2\obj\Debug\net5.0\ref\Koleksiyonlar_Soru_2.dll
